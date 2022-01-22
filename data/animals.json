@@ -126,6 +126,47 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "test animal",
+      "species": "dog species",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "test animal",
+      "species": "dog species",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "dfx",
+      "species": "dfd",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "anxious"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "csad",
+      "species": "asd",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "16"
     }
   ]
 }
